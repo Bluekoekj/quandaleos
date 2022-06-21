@@ -2,7 +2,7 @@
 
 QuandaleOS is an OS made by ChocoMilk on YouTube.
 
-This website is made to preserve it 
+This website is made to preserve it, and I made this for a bit of fun to be honest
 
 <a href="/quandaleos"><-- Go back
                          
